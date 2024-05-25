@@ -1,1 +1,1 @@
-A website change dector made in python
+A website change detector made in python
